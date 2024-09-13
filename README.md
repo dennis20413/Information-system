@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennis20413
 - 👀 I’m interested in game and anime
-- 🌱 I’m currently learning ? data science
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on e-sport
 - 📫 How to reach me ? discord id:dc1810
 
