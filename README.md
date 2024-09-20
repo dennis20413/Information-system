@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on e-sport
 - 📫 How to reach me ? discord id:dc1810
 
-資訊系統導論 information system
-my student id is B11252001
+資訊系統導論 information system course
+#student id is B11252001
 
 <!---
 dennis20413/dennis20413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
