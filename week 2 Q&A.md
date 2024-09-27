@@ -18,12 +18,12 @@ Wal-Mart uses data mining in numerous ways, from demand forecasting to predictin
 
 # Examining computer
 
-![image](https://github.com/user-attachments/assets/fa96191b-e413-485c-aac0-2b2ab80ca811)
+![image](https://github.com/user-attachments/assets/6192e8a0-153c-4706-aed4-89a0eb5f6028)
 
 # Examining mobile phone
 
-![image](https://github.com/user-attachments/assets/f1231148-ce91-4f0f-ac58-da2556fc15a5)
+![image](https://github.com/user-attachments/assets/97472e4f-de25-4bb1-a44b-37d5c1ef14a0)
 
 # evolution of personal devices
 
-![image](https://github.com/user-attachments/assets/d82d4928-5d42-46fc-a127-b4705192dcdb)
+![image](https://github.com/user-attachments/assets/42ba1fdf-d76b-4e83-aa2e-3b39da64f025)
