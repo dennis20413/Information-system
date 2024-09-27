@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a00efb48-62b1-4861-a5d3-7866707b07a3)
 
 
 # 1. CPU (Central Processing Unit) Speed
