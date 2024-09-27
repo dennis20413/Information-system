@@ -69,7 +69,7 @@ Example: A Wi-Fi 6 router offers significantly faster speeds than older Wi-Fi st
 
 ![image](https://github.com/user-attachments/assets/82085d23-c926-4fa9-828b-2215204ba8b5)
 
-# summarize to table
+# Summarize to table
 
 ![image](https://github.com/user-attachments/assets/3a28eaaa-a983-4faa-8893-655f3e335b04)
 
