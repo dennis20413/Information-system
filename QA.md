@@ -16,5 +16,5 @@ In my opinion, cell phones are only better than computers in terms of size and c
 
 Wal-Mart uses data mining in numerous ways, from demand forecasting to predicting the number of cashiers needed at a store at a particular time. To help suppliers become more efficient, and as a result lower prices, Wal-Mart shares data with them.
 
-
+# computer
 ![image](https://github.com/user-attachments/assets/fa96191b-e413-485c-aac0-2b2ab80ca811)
