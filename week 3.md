@@ -64,6 +64,7 @@ Analogy: Like doors and windows that allow information to enter and exit the com
 ![image](https://github.com/user-attachments/assets/676f447b-7781-4241-8a56-ab0a650a42b7)
 
 
+# Summarize to table
 
+![image](https://github.com/user-attachments/assets/3a7821ef-2d13-4667-926b-a94e10632d0a)
 
-![image](https://github.com/user-attachments/assets/90ff4f72-4d46-48a4-acb8-9cae809ba434)
