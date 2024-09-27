@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # 1. CPU (Central Processing Unit) Speed
 
 Description: The speed of a CPU is measured in GHz (Gigahertz), indicating how many cycles it can perform per second. For example, a 3.5 GHz CPU can perform 3.5 billion cycles per second.
