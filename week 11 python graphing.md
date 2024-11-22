@@ -1,8 +1,8 @@
-1. Define User and Check Python version
+# 1. Define User and Check Python version
 
 ![image](https://github.com/user-attachments/assets/3eaef9ce-5892-4a88-8dd4-a0e0b77cddc4)
 
-2. List
+# 2. List
 
 ![image](https://github.com/user-attachments/assets/f99bbef0-a127-4879-8f1c-753bbfd1b42e)
 
@@ -12,25 +12,25 @@
 
 ![image](https://github.com/user-attachments/assets/04085400-181c-4eb9-b3d5-89963bfce94a)
 
-3. While loop applicate
+# 3. While loop applicate
 
 ![image](https://github.com/user-attachments/assets/f702cdb6-aa99-404f-b861-3096f4e9fe7e)
 
 ![image](https://github.com/user-attachments/assets/a484316b-4966-4f60-9aaf-f4a5280bf267)
 
-4. Operation
+# 4. Operation
 
 ![image](https://github.com/user-attachments/assets/e8c7c3e1-b3b0-4821-a361-9612002bdb6e)
 
-5. Function
+# 5. Function
 
 ![image](https://github.com/user-attachments/assets/1434f8dd-623f-411b-b6c1-bb39f498b660)
 
-6. Class
+# 6. Class
 
 ![image](https://github.com/user-attachments/assets/8ed9ee6c-c599-477c-bfac-80d6b178337d)
 
-7. Plot (python graphing)
+# 7. Plot (python graphing)
 
 ![image](https://github.com/user-attachments/assets/d11dfe93-3a5a-4aed-9500-7f8e73e724e1)
 
