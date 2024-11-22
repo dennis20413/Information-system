@@ -42,6 +42,8 @@
 
 ![image](https://github.com/user-attachments/assets/63762d3f-55c0-48c0-933b-79be9f974127)
 
+# The python graphing practical applicate
+
 ## I abandon my atheism and fall to my knees, begging god to lovingly watch over my precious little angel grace and make sure she's happy
 
 ![image](https://github.com/user-attachments/assets/c40e740f-e060-4ff7-984a-981a5440de63)
