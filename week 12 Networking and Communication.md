@@ -1,7 +1,9 @@
 # Networking and Communication
 
-![Networking and Communication](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Network_topology_diagram.jpg/1200px-Network_topology_diagram.jpg)
-> *Image Source: Wikipedia*
+![image](https://github.com/user-attachments/assets/f703add5-2ac3-4b31-9a04-da47970029b4)
+
+
+> *Image Source: boardmix*
 
 ## Overview
 Networking and communication play a crucial role in modern technology, enabling devices, systems, and people to stay connected. From sending emails to streaming videos, the essence of today's digital world lies in how effectively networks communicate.
@@ -51,8 +53,9 @@ Once the IP address is found, the request is routed to the target server via mul
 The server sends the requested data (e.g., a webpage) back to your device.
 
 ### Network Visualization:
-![Data Flow in a Network](https://miro.medium.com/max/1400/1*NYtf2EdQSh7Y2dbE4TpqCA.gif)
-> *Image Source: Medium*
+![image](https://github.com/user-attachments/assets/21e5c0fc-9fba-4f46-9d23-88dedfaa83ee)
+
+> *Image Source: cambridge-intelligence*
 
 ---
 
