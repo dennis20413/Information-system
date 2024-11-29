@@ -1,7 +1,8 @@
 # Technical Foundations: Data and Databases & Review
 
-![Data and Databases](https://upload.wikimedia.org/wikipedia/commons/3/39/Relational_Database_Structure.png)  
-> *Image Source: Wikimedia Commons*
+![image](https://github.com/user-attachments/assets/a2eb5069-2698-4e87-964f-7e52be8ea7b5)
+
+> *Image Source: fastercapital*
 
 ## Overview
 In the digital era, data is often referred to as "the new oil," powering business decisions, driving technological advancements, and shaping entire industries. Databases serve as the backbone for storing, managing, and retrieving this data efficiently. Understanding the fundamentals of data, databases, and their management systems is critical for developers, data scientists, and IT professionals.
@@ -79,8 +80,9 @@ A **database** is an organized collection of data, designed to store, manage, an
 ### 3. **Entity-Relationship Diagram (ERD)**
 - A visual representation of entities (e.g., tables) and their relationships.
   
-![ERD Example](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ERD_Example.png/1200px-ERD_Example.png)  
-> *Image Source: Wikimedia Commons*
+![image](https://github.com/user-attachments/assets/4d4ba8d9-bca8-407a-b6ca-c52adbfd6299)
+
+> *Image Source: edrawmax*
 
 ---
 
