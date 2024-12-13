@@ -88,3 +88,5 @@ The server sends the requested data (e.g., a webpage) back to your device.
 ![image](https://github.com/user-attachments/assets/591f01c2-6862-4f39-98fd-b3a89a77b1e5)
 
 ![image](https://github.com/user-attachments/assets/c6b77e9d-0f6e-4566-aadf-452e55305e5a)
+
+![image](https://github.com/user-attachments/assets/e51940ee-ae10-4999-9e7b-20a1b1c8c929)
