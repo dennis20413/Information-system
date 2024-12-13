@@ -69,3 +69,18 @@ The server sends the requested data (e.g., a webpage) back to your device.
 ## 📚 Further Reading
 - [Cisco Networking Basics](https://www.cisco.com/)
 - [Wikipedia: Computer Network](https://en.wikipedia.org/wiki/Computer_network)
+
+
+# internet's speed
+![image](https://github.com/user-attachments/assets/ac5142b8-64c2-4c2f-90d6-cf8f3e9fc4b8)
+
+# IP
+
+![image](https://github.com/user-attachments/assets/2c4a8a28-4103-4024-8ab2-18774e195c92)
+
+# network address
+![image](https://github.com/user-attachments/assets/7cdcf2c5-1b44-497c-8b38-80c02fd0b427)
+
+![image](https://github.com/user-attachments/assets/f5b3bbce-aa92-4f53-bedb-94729c71779a)
+
+![image](https://github.com/user-attachments/assets/ff1db814-1963-4c5c-9d73-34d74d0517f7)
